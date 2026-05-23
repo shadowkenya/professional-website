@@ -38,7 +38,7 @@ CREATE TABLE `admins` (
 --
 
 INSERT INTO `admins` (`id`, `username`, `password`) VALUES
-(1, 'speed', '$2y$10$w0M9B8eCgXQv.i65D13WreF7bE3f0DHe/NfA6rQ2lA3A79gEa3X7u');
+(1, 'unaiba', '$2y$10$w0M9B8eCgXQv.i65D13WreF7bE3f0DHe/NfA6rQ2lA3A79gEa3X7u');
 
 -- --------------------------------------------------------
 
